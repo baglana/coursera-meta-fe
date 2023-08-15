@@ -1,0 +1,15 @@
+/* #blog h1 {
+  color: blue;
+} */
+
+/* #blog div h1 {
+  color: blue;
+} */
+
+#blog > h1 {
+  color: blue;
+}
+
+a:hover {
+  color: orange;
+}
